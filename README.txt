@@ -11,7 +11,7 @@ Previously we experiment reservoir sampling on static data, now we consider a st
 We will be storing only the eligible elements in the memory.
 Therefore expected memory usage is O(log n), or O(k log n) for samples of size k.
 
-Before execute main.py please insert your key into the file config.py 
+Before execute main.py please insert your key into the file: 
 
 consumer_key=""
 consumer_secret=""
